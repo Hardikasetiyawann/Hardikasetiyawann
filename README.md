@@ -1,3 +1,8 @@
+📧 [Email](mailto:hardikasetiyawan@gmail.com)  
+🌐 [Website](https://pojokbaca.id)  
+📷 [Instagram](https://instagram.com/hrdiikaa)  
+🔗 [LinkedIn](https://linkedin.com/in/hrdiikaa)
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Hardika Setiyawan and I'm a software developer/DevOps engineer from Banyumas, Central Java, Indonesia.  
