@@ -28,8 +28,8 @@ I believe in “learning by doing” — every day is an opportunity to code som
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Server-XAMPP-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
 
 ---
