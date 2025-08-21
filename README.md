@@ -31,6 +31,7 @@ Currently, I’m learning and exploring UI/UX Design with Figma, Web Development
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Server-XAMPP-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
 
 ---
