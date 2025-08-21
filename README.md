@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="assets/wave.gif" width="30px" height="30px" />
 
 Hi! I'm Hardika Setiyawan, an Informatics student at Universitas Amikom Purwokerto who is passionate about becoming a Fullstack Developer.
 Currently, I’m learning and exploring UI/UX Design with Figma, Web Development with Laravel, and Cross-Platform App Development with Flutter.
