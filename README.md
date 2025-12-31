@@ -1,39 +1,43 @@
 ![Header](assets/apaini.png "Header")
 # Hello, folks! <img src="assets/wave.gif" width="30px" height="30px" />
 
-Hi! I'm Hardika Setiyawan, an Informatics student at Universitas Amikom Purwokerto who is passionate about becoming a Fullstack Developer.
-Currently, I’m learning and exploring UI/UX Design with Figma, Web Development with Laravel, and Cross-Platform App Development with Flutter.
+Hi! I'm Hardika Setiyawan, an Informatics student at Universitas Amikom Purwokerto with a strong interest in Machine Learning, Backend Development, and Mobile Applications.
+I enjoy building end-to-end projects, from data processing and model development to API creation and frontend/mobile integration using CodeIgniter 4, Express.js, Flask, and Flutter.
 
-*"I believe that success does not belong to smart people, but to those who are persistent and never give up."*
+"I believe that success does not belong to the smartest people, but to those who stay persistent and never give up."
 
 ---
 
 ## 🔧 Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/IDE-Arduino_IDE-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Diagram-Draw.io-informational?style=flat&logo=diagrams.net&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a"/>
+  <!-- OS & Tools -->
+  <img src="https://img.shields.io/badge/OS-Ubuntu-informational?logo=ubuntu&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tools-Git-informational?logo=git&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tools-GitHub-informational?logo=github&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?logo=docker&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/API-Postman-informational?logo=postman&color=2bbc8a"/>
+
+  <!-- Backend & API -->
+  <img src="https://img.shields.io/badge/Backend-PHP-informational?logo=php&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Framework-CodeIgniter_4-informational?color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Framework-Laravel-informational?logo=laravel&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Backend-Flask-informational?logo=flask&color=2bbc8a"/>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/DB-MySQL-informational?logo=mysql&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?logo=postgresql&color=2bbc8a"/>
+
+  <!-- Machine Learning & CV -->
+  <img src="https://img.shields.io/badge/ML-Python-informational?logo=python&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/ML-TensorFlow-informational?logo=tensorflow&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-informational?color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/CV-OpenCV-informational?logo=opencv&color=2bbc8a"/>
+
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/Mobile-Flutter-informational?logo=flutter&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?logo=tailwindcss&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Frontend-Bootstrap-informational?logo=bootstrap&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Design-Figma-informational?logo=figma&color=2bbc8a"/>
 </p>
 
 ---
